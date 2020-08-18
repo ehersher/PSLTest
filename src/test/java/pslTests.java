@@ -30,7 +30,7 @@ public class pslTests {
 
             // Use chrome driver to relative location of testing environment
             String path = System.getProperty("user.dir");
-            System.setProperty("webdriver.chrome.driver", path + "/resources/chromedriver");
+            System.setProperty("webdriver.chrome.driver", path + "/resources/chromedriver.exe");
 
             // Create an instance of the driver
             WebDriver driver = new ChromeDriver();
