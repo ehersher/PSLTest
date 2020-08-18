@@ -11,3 +11,19 @@
 5. In the URL field, enter the link to the repository: https://github.com/ehersher/PSLTest. Then click "clone"
 
 6. With Intellij open, click 'File', then 'Project Structure' then click on 'add dependency' as shown in this screenshot https://imgur.com/a/XObDK0V
+
+7. In the drop down, click on option 1: "JARS or directories"
+
+8. Navigate to this file directory as shown in the screenshot https://imgur.com/a/TJmURTl
+
+9. Add the highlighted jar file in the screenshot https://imgur.com/a/f5wGSED and then hit "Ok"
+
+10. Repeat steps 8 and 9 for another JAR file (you'll choose the one in the screenshot here) https://imgur.com/a/lC9NByM
+
+11. Finally, hit "Ok"
+
+12. At https://chromedriver.chromium.org/downloads download a suitable chrome driver for your OS. At the time, the current version is 84
+
+13. Navigate to C:\Users\(Your user)\IdeaProjects\PSLTest\resources and replace the driver there with the .exe you just installed
+
+14. The JUnit tests should now be able to be built from the IDE
