@@ -14,12 +14,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f44c9f59-9d08-4860-bcc7-87c97d9451e9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PSL_Tester.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/chromedriver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pslTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test/java/pslTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,16 +111,20 @@
       </method>
     </configuration>
     <configuration name="pslTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PSL_Tester" />
+      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="test.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
       <option name="PACKAGE_NAME" value="test.java" />
       <option name="MAIN_CLASS_NAME" value="test.java.pslTests" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,6 +161,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.TestSelenium" />
+      <item itemvalue="JUnit.pslTests" />
+      <item itemvalue="JUnit.pslTests.falseCases" />
+      <item itemvalue="JUnit.pslTests.trueCases" />
+      <item itemvalue="JUnit.SunnyDayTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.pslTests" />
@@ -184,6 +190,7 @@
       <workItem from="1597776790183" duration="845000" />
       <workItem from="1597777643945" duration="84000" />
       <workItem from="1597777731011" duration="689000" />
+      <workItem from="1597781227208" duration="159000" />
     </task>
     <servers />
   </component>
@@ -200,15 +207,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="128" y="280" key="#Project_Structure" timestamp="1597328980931">
       <screen x="0" y="23" width="2560" height="1352" />
     </state>
     <state x="128" y="280" key="#Project_Structure/0.23.2560.1352@0.23.2560.1352" timestamp="1597328980931" />
-    <state x="104" y="360" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597346232141">
-      <screen x="0" y="23" width="2560" height="1352" />
+    <state x="104" y="349" width="1071" height="822" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597781386027">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="104" y="349" width="1071" height="822" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597781386027" />
     <state x="104" y="360" width="1071" height="724" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1352@0.23.2560.1352" timestamp="1597346232141" />
     <state x="253" y="394" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1597329451246">
       <screen x="0" y="23" width="2560" height="1352" />
@@ -254,9 +263,10 @@
       <screen x="0" y="23" width="2560" height="1352" />
     </state>
     <state width="1238" height="475" key="GridCell.Tab.1.right/0.23.2560.1352@0.23.2560.1352" timestamp="1597354572195" />
-    <state x="128" y="280" key="SettingsEditor" timestamp="1597777688089">
-      <screen x="0" y="23" width="2560" height="1352" />
+    <state x="128" y="266" key="SettingsEditor" timestamp="1597781304393">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
+    <state x="128" y="266" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1597781304393" />
     <state x="128" y="280" key="SettingsEditor/0.23.2560.1352@0.23.2560.1352" timestamp="1597777688089" />
     <state x="278" y="438" key="Vcs.Push.Dialog.v2" timestamp="1597778331115">
       <screen x="0" y="23" width="2560" height="1352" />
