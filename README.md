@@ -9,3 +9,5 @@
 4. Click on "Get from Version Control"
 
 5. In the URL field, enter the link to the repository: https://github.com/ehersher/PSLTest. Then click "clone"
+
+6. With Intellij open, click 'File', then 'Project Structure' then click on 'add dependency' as shown in this screenshot https://imgur.com/a/XObDK0V
